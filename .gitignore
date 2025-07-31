@@ -137,3 +137,19 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+.expo/
+.expo-shared/
+android/app/build/
+ios/build/
+ios/Pods/
+*.xcworkspace
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+.env
+.env.*
+metro-cache/
+.cache/
+.idea/
+build/
+.DS_Store
